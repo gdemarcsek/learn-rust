@@ -1,4 +1,3 @@
-// this is what __init__.py is for a package in Python ;)
 pub mod submodule;          // by default, the submodule declaration is private
 
 // Rules of privacy in Rust:
