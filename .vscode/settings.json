@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./2023/guessing_game/Cargo.toml"
+    ]
+}
